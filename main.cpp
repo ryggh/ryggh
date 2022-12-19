@@ -10,6 +10,7 @@ int main()
     if (runSimpleTests(SELECTED_TESTS)) {
         return 0;
         //comment this cpp
+        //git is good
     }
     return 0;
 
